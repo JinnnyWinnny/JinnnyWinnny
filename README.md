@@ -8,7 +8,7 @@
 
 
 <p align="center">
-I love <strong>coding!</strong> I have obtained various skills and knowledges from different courseworks and projects to create distinctive algorithms that can solve the practical problems. With my strong passion in programming, I am aspiring to work as a software developer to optimize my ability to bring positive aspects to the users. 
+I love <strong>CODING!</strong> I have obtained various skills and knowledges from different courseworks and projects to create distinctive algorithms that can solve the practical problems. With my strong passion in programming, I am aspiring to work as a software developer to optimize my ability to bring positive aspects to the users. 
 </p>
 
 <h1 align="center">  </h1>
