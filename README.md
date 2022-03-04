@@ -12,6 +12,7 @@ I love <strong>CODING!</strong> I have obtained various skills and knowledges fr
 </p>
 
 <h1 align="center">  </h1>
+
 <h3 align="center"> Specialized in  </h3>
 <p align="center">
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/></a> &nbsp
@@ -33,11 +34,12 @@ I love <strong>CODING!</strong> I have obtained various skills and knowledges fr
 
 
 
-<!--
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnnyWinnny&layout=compact)
+<h1 align="center">  </h1>
 
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnnyWinnny&layout=compact)
+ -->
 
-![JinnnyWinnny's github stats](https://github-readme-stats.vercel.app/api?username=JinnnyWinnny&show_icons=true) 
--->
+![JinnnyWinnny's github stats](https://github-readme-stats.vercel.app/api?username=JinnnyWinnny&theme=calm&show_icons=true) 
+
 
 ![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinnnyWinnny&count_bg=%237A7A7A&title_bg=%23C0C0C0&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)
