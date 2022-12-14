@@ -28,7 +28,7 @@ I love <strong>CODING!</strong> I have obtained various skills and knowledges fr
 <h3 align="center"> Find me here  </h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/jieun-lee-a14379221/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-&logo=linkedin&logoColor=white&link=https://www.instagram.com/jinny_winny/"/></a> &nbsp
-<a href="https://www.instagram.com/jinny_winny/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-&logo=instagram&logoColor=white&link=https://www.instagram.com/jinny_winny/"/></a> &nbsp
+<!-- <a href="https://www.instagram.com/jinny_winny/"><img src="https://img.shields.io/badge/instagram-E4405F?style=flat-&logo=instagram&logoColor=white&link=https://www.instagram.com/jinny_winny/"/></a> &nbsp -->
 <a href="https://mail.google.com/mail/u/?authuser=jinnywinny3@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-&logo=gmail&logoColor=white&link=https://mail.google.com/mail/u/?authuser=jinnywinny3@gmail.com"/></a> &nbsp
 </p>
 
