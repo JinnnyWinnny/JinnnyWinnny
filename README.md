@@ -42,4 +42,3 @@ I love <strong>CODING!</strong> I have obtained various skills and knowledges fr
 ![JinnnyWinnny's github stats](https://github-readme-stats.vercel.app/api?username=JinnnyWinnny&theme=calm&show_icons=true) 
 
 
-![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJinnnyWinnny&count_bg=%237A7A7A&title_bg=%23C0C0C0&icon=github.svg&icon_color=%23E7E7E7&title=visitor&edge_flat=false)
