@@ -3,7 +3,7 @@
 <h1 align="center">cout<< "Jieun Lee" << endl; </h1>
 
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=ff8880&weight=700&height=300&section=header&text=passionate&fontColor=ffffff&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=ff8880&weight=100%&height=300&section=header&text=passionate&fontColor=ffffff&fontSize=90)
 
 
 
