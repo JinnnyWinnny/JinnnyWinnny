@@ -39,8 +39,5 @@ I love <strong>CODING!</strong> I have obtained various skills and knowledges fr
 <h1 align="center">  </h1>
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JinnnyWinnny) -->
- 
-
-![JinnnyWinnny's github stats](https://github-readme-stats.vercel.app/api?username=JinnnyWinnny&theme=calm&show_icons=true) 
 
 
